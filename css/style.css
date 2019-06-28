@@ -33,7 +33,7 @@ body{
 }
 .p2{
 	position:absolute;
-	bottom:0;
+	bottom:4px;
 	left:0;
 	color:aqua;
 }
